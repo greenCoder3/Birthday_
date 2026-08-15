@@ -81,8 +81,20 @@ h2{font:600 clamp(2.1rem,6vw,4rem) "Playfair Display",serif;margin:10px 0 18px}
   transition:transform .3s;
 }
 .memory-card:hover{transform:translateY(-7px)}
-.memory-image{height:270px;background:linear-gradient(135deg,#25101c,#171020);position:relative;display:grid;place-items:center;overflow:hidden}
-.memory-image img{width:100%;height:100%;object-fit:cover}
+..memory-image{
+    height:340px;
+    background:#171020;
+    position:relative;
+    overflow:hidden;
+}
+
+.memory-image img{
+    width:100%;
+    height:100%;
+    display:block;
+    object-fit:cover;
+    object-position:center;
+}
 .memory-image span{position:absolute;font-size:2rem;opacity:.6}
 .image-placeholder img{display:none}
 .memory-content{padding:22px}
