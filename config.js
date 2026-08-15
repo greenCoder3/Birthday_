@@ -35,6 +35,6 @@ window.SITE_CONFIG = {
     { title: "My Favorite View", text: "No matter where we are, having you right next to me is the best sight in the world.", image: "assets/photo3.jpg" }
   ],
 
-  finalMessage: "Keep shining and smiling just like this, forever. ❤️",
+  finalMessage: "Keep shining and smiling just like this, forever, My Rasmalai❤️.",
   music: "assets/music.mp3"
 };
