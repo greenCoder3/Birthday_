@@ -9,9 +9,9 @@ window.SITE_CONFIG = {
   shortIntro: "A little surprise made just for you ❤️",
 
   // Optional date. Format: "2026-12-31T00:00:00"
-  specialDate: "",
+  specialDate: "2026-08-28T00:00:00",
 
-  heroTitle: "Happy Birthday, Someone Special! 🎂",
+  heroTitle: "Happy Birthday, My Sunshine! 🎂",
   heroText: "Today is all about celebrating you and the beautiful memories we share.",
 
   letterTitle: "A Little Letter For You 💌",
