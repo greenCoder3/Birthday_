@@ -16,8 +16,9 @@ window.SITE_CONFIG = {
 
   letterTitle: "A Little Letter For You 💌",
   letterText:
-    "Some people make ordinary days feel special. Thank you for being one of those people. " +
-    "This little website is just a small way to say how much you mean to me. ❤️",
+    "Every day in my life is wonderful since the moment I met you. Each step I walked with you makes my life full of love, prosperity" +
+    "You bring so much magic into my world, and I promise to do my absolute best to keep your life filled with love, laughter, and unforgettable moments. ❤️"+
+    "Wishing you a very Happy Birthday, my charming girl! Keep shining and always stay your amazing self. ❤️",
 
   reasons: [
     "Your smile is pure magic. One notification from you and poof—bad mood gone!",
