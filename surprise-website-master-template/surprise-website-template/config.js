@@ -3,7 +3,7 @@
 // Edit ONLY this file for each new website.
 // ===============================
 
-const SITE_CONFIG = {
+window.SITE_CONFIG = {
   personName: "Someone Special",
   occasion: "Happy Birthday",
   shortIntro: "A little surprise made just for you ❤️",
