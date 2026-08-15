@@ -1,0 +1,1 @@
+Put photo1.jpg, photo2.jpg and photo3.jpg in this folder. You can use different filenames, but update config.js accordingly.
