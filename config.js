@@ -4,17 +4,17 @@
 // ===============================
 
 const SITE_CONFIG = {
-  personName: "Someone Special",
+  personName: "My Sunshine",
   occasion: "Happy Birthday",
   shortIntro: "A little surprise made just for you ❤️",
 
   // Optional date. Format: "2026-12-31T00:00:00"
   specialDate: "2026-08-28T00:00:00",
 
-  heroTitle: "Happy Birthday My Sunshine, Someone Special! 🎂",
+  heroTitle: "Happy Birthday, My Sunshine! 🎂",
   heroText: "Today is all about celebrating you and the beautiful memories we share.",
 
-  letterTitle: "A Little Letter For You 💌",
+  letterTitle: "A Little Letter For My Love 💌",
   letterText:
     "Some people make ordinary days feel special. Thank you for being one of those people. " +
     "This little website is just a small way to say how much you mean to me. ❤️",
@@ -27,7 +27,7 @@ const SITE_CONFIG = {
   ],
 
   memories: [
-    { title: "Memory One", text: "Write your first special memory here.", image: "assets/photo1.jpg" },
+    { title: "Memory One", text: "Write your first special memory here.", image: "images.jpeg" },
     { title: "Memory Two", text: "Write another beautiful memory here.", image: "assets/photo2.jpg" },
     { title: "Memory Three", text: "Add one more moment you never want to forget.", image: "assets/photo3.jpg" }
   ],
