@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   shortIntro: "A little surprise made just for you ❤️",
 
   // Optional date. Format: "2026-12-31T00:00:00"
-  specialDate: "2026-08-28T00:00:00",
+  specialDate: "",
 
   heroTitle: "Happy Birthday, My Sunshine! 🎂",
   heroText: "Today is all about celebrating you and the beautiful memories we share.",
@@ -20,16 +20,16 @@ window.SITE_CONFIG = {
     "This little website is just a small way to say how much you mean to me. ❤️",
 
   reasons: [
-    "Your smile can instantly make a day better.",
-    "You make simple moments feel memorable.",
-    "You bring warmth, laughter and happiness wherever you go.",
-    "You are genuinely special in your own way."
+    "Your smile is pure magic. One notification from you and poof—bad mood gone!",
+    "You're my favorite gossip buddy, my true love, and my partner-in-crime all rolled into one.",
+    "You bring warmth, laughter, and happiness wherever you go.",
+    "It’s your simplicity that wins me over every time. Life with you is one big celebration. ✨"
   ],
 
   memories: [
-    { title: "Memory One", text: "Write your first special memory here.", image: "assets/photo1.jpg" },
-    { title: "Memory Two", text: "Write another beautiful memory here.", image: "assets/photo2.jpg" },
-    { title: "Memory Three", text: "Add one more moment you never want to forget.", image: "assets/photo3.jpg" }
+    { title: "Pure Simplicity ✨", text: "What hits me most is how simple and genuine you are. Life with you feels so light and effortless.", image: "assets/photo1.jpg" },
+    { title: "That Favorite Smile ❤️", text: "Your smile is pure magic—just one look or message from you instantly fixes my whole day.", image: "assets/photo2.jpg" },
+    { title: "My Favorite View", text: "No matter where we are, having you right next to me is the best sight in the world.", image: "assets/photo3.jpg" }
   ],
 
   finalMessage: "May your smile stay this beautiful forever. ❤️",
