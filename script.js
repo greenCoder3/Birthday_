@@ -32,8 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
     card.className = "memory-card reveal";
     card.innerHTML = `
       <div class="memory-image">
-        <img src="${memory.image}" alt="${memory.title}" onerror="this.style.display='none'; this.parentElement.classList.add('image-placeholder')">
-        <span>📸</span>
+        <img src="${memory.image}" alt="${memory.title}">
       </div>
       <div class="memory-content">
         <h3>${memory.title}</h3>
