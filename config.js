@@ -4,7 +4,7 @@
 // ===============================
 
 window.SITE_CONFIG = {
-  personName: "Someone Special",
+  personName: "My Sunshine",
   occasion: "Happy Birthday",
   shortIntro: "A little surprise made just for you ❤️",
 
