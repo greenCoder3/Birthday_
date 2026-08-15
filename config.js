@@ -31,8 +31,8 @@ window.SITE_CONFIG = {
 
   memories: [
     { title: "Pure Simplicity ✨", text: "What hits me most is how simple and genuine you are. Life with you feels so light and effortless.", image: "assets/photo1.jpeg" },
-    { title: "That Favorite Smile ❤️", text: "Your smile is pure magic—just one look or message from you instantly fixes my whole day.", image: "assets/photo2.jpg" },
-    { title: "My Favorite View", text: "No matter where we are, having you right next to me is the best sight in the world.", image: "assets/photo3.jpg" }
+    { title: "That Favorite Smile ❤️", text: "Your smile is pure magic—just one look or message from you instantly fixes my whole day.", image: "assets/photo2.JPG" },
+    { title: "My Favorite View", text: "No matter where we are, having you right next to me is the best sight in the world.", image: "assets/photo3.JPG" }
   ],
 
   finalMessage: "Keep shining and smiling just like this, forever, My Rasmalai❤️.",
