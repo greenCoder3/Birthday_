@@ -16,11 +16,11 @@ window.SITE_CONFIG = {
 
   letterTitle: "A Little Letter For You 💌",
   letterText:
-    "Every day in my life is wonderful since the moment I met you. Each step I walk with you makes my life full of love and prosperity.  /n" +
-    "/n You bring so much magic into my world, and I promise to do my absolute best to keep your life filled with love, laughter, and unforgettable moments. ❤️"+
-    "/n Wishing you a very Happy Birthday, my charming girl! Keep shining and always stay your amazing self. ❤️" + 
-  "/n Yours Soulmate"+ 
-  "/n Vishal",
+    "Every day in my life is wonderful since the moment I met you. Each step I walk with you makes my life full of love and prosperity.\n\n" +
+    "You bring so much magic into my world, and I promise to do my absolute best to keep your life filled with love, laughter, and unforgettable moments. ❤️\n\n" +
+    "Wishing you a very Happy Birthday, my charming girl! Keep shining and always stay your amazing self. ❤️\n\n" +
+    "Yours Soulmate,\n" +
+    "Vishal",
 
   reasons: [
     "Your smile is pure magic. One notification from you and poof—bad mood gone!",
