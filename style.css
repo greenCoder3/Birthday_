@@ -81,7 +81,7 @@ h2{font:600 clamp(2.1rem,6vw,4rem) "Playfair Display",serif;margin:10px 0 18px}
   transition:transform .3s;
 }
 .memory-card:hover{transform:translateY(-7px)}
-..memory-image{
+.memory-image{
     height:340px;
     background:#171020;
     position:relative;
