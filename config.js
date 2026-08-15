@@ -11,14 +11,16 @@ window.SITE_CONFIG = {
   // Optional date. Format: "2026-12-31T00:00:00"
   specialDate: "",
 
-  heroTitle: "Happy Birthday, My Sunshine! 🎂",
+  heroTitle: "Happy Birthday, Komal Ji! 🎂",
   heroText: "Today is all about celebrating you and the beautiful memories we share.",
 
   letterTitle: "A Little Letter For You 💌",
   letterText:
-    "Every day in my life is wonderful since the moment I met you. Each step I walked with you makes my life full of love, prosperity" +
-    "You bring so much magic into my world, and I promise to do my absolute best to keep your life filled with love, laughter, and unforgettable moments. ❤️"+
-    "Wishing you a very Happy Birthday, my charming girl! Keep shining and always stay your amazing self. ❤️",
+    "Every day in my life is wonderful since the moment I met you. Each step I walk with you makes my life full of love and prosperity.  /n" +
+    "/n You bring so much magic into my world, and I promise to do my absolute best to keep your life filled with love, laughter, and unforgettable moments. ❤️"+
+    "/n Wishing you a very Happy Birthday, my charming girl! Keep shining and always stay your amazing self. ❤️" + 
+  "/n Yours Soulmate"+ 
+  "/n Vishal",
 
   reasons: [
     "Your smile is pure magic. One notification from you and poof—bad mood gone!",
@@ -33,6 +35,6 @@ window.SITE_CONFIG = {
     { title: "My Favorite View", text: "No matter where we are, having you right next to me is the best sight in the world.", image: "assets/photo3.jpg" }
   ],
 
-  finalMessage: "May your smile stay this beautiful forever. ❤️",
+  finalMessage: "Keep shining and smiling just like this, forever. ❤️",
   music: "assets/music.mp3"
 };
